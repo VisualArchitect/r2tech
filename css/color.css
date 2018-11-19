@@ -4,8 +4,7 @@ body {
 
 nav {
   background-color: white;
-  margin: 0;
-  padding: 20px;
+  height: 40px;
 }
 
 nav li {
@@ -15,9 +14,12 @@ nav li {
 
 footer {
   background-color: red;
-  padding: 10px;
+
+  position: absolute;
+  bottom: 0;
+  height: 25%;
 }
 
 #mainArea {
-  padding: 10px;
+
 }
