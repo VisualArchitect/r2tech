@@ -1,5 +1,11 @@
 body {
   background-color: grey;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+    background-color: purple;
 }
 
 .content {
@@ -16,6 +22,17 @@ ul {
 li {
     display: inline;
 }
+/** Section formatting below **/
+
+.pageBanner {
+    background-color: rgba(0, 255, 0, 0.3);
+    color: white;
+}
+
+#pageWrapper {
+
+}
+
 
 /** Hyperlink styles below **/
 a:link {
